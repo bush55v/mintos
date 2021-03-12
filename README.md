@@ -1,0 +1,2 @@
+# mintos
+Cool SQ cluster
